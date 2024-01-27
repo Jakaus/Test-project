@@ -1,4 +1,4 @@
-#Create a new repository on the command line  
+# Create a new repository on the command line  
 
 echo "# Test-project" >> README.md  
 git init  
@@ -9,7 +9,7 @@ git remote add origin git@github.com:PotatoRush/Test-project.git
 git push -u origin main  
 
 
-##Push an existing repository from the command line
+# Push an existing repository from the command line
 
 git remote add origin git@github.com:PotatoRush/Test-project.git  
 git branch -M main  
