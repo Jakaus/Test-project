@@ -17,6 +17,6 @@ git push -u origin main // only need "git push" after init push
 
 ## Push a github commit
 
-git add README.md
-git commit -m "comment here"
-git push
+git add README.md  
+git commit -m "comment here"  
+git push  
