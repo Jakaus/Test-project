@@ -15,4 +15,8 @@ git remote add origin git@github.com:PotatoRush/Test-project.git
 git branch -M main  
 git push -u origin main // only need "git push" after init push  
 
-## Test
+## Push a github commit
+
+git add README.md
+git commit -m "comment here"
+git push
